@@ -1,0 +1,26 @@
+{
+  "name": "2d-fighters",
+  "version": "1.0.0",
+  "description": "A simple 2d fighting game developed with free assets from itch.io",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npm install -g live-server",
+    "start": "live-server --port=3000 --host=localhost --open=index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulDavidTucker/2d-fighters.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "JavaScript"
+  ],
+  "author": "Paul Tucker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaulDavidTucker/2d-fighters/issues"
+  },
+  "homepage": "https://github.com/PaulDavidTucker/2d-fighters#readme"
+}
